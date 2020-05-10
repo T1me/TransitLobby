@@ -1,0 +1,13 @@
+# Created by https://www.gitignore.io/api/sourcepawn
+# Edit at https://www.gitignore.io/?templates=sourcepawn
+
+### SourcePawn ###
+# SourcePawn
+*.dll # extensions
+*.so # extensions
+*.smx # plugins
+
+.vscode
+compile.bat
+
+# End of https://www.gitignore.io/api/sourcepawn
